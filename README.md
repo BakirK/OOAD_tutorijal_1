@@ -2,4 +2,4 @@
 
 - [x] resolve #1
 - [x] fix
-- [ ] close
+- [x] close
