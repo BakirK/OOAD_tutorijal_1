@@ -1,0 +1,15 @@
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\Z5.exe
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\Z5.deps.json
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\Z5.runtimeconfig.json
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\Z5.runtimeconfig.dev.json
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\Z5.dll
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\ref\Z5.dll
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\bin\Debug\net5.0\Z5.pdb
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.AssemblyInfoInputs.cache
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.AssemblyInfo.cs
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.csproj.CoreCompileInputs.cache
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.dll
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\ref\Z5.dll
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.pdb
+C:\Users\Bakir\OOAD_tutorijali\tut2\Z5\obj\Debug\net5.0\Z5.genruntimeconfig.cache
