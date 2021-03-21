@@ -1,0 +1,16 @@
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\Tutorijal3.exe
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\Tutorijal3.deps.json
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\Tutorijal3.runtimeconfig.json
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\Tutorijal3.runtimeconfig.dev.json
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\Tutorijal3.dll
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\ref\Tutorijal3.dll
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\bin\Debug\net5.0\Tutorijal3.pdb
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.csprojAssemblyReference.cache
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.AssemblyInfoInputs.cache
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.AssemblyInfo.cs
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.csproj.CoreCompileInputs.cache
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.dll
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\ref\Tutorijal3.dll
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.pdb
+C:\Users\Bakir\OOAD_tutorijali\Tutorijal3\Tutorijal3\obj\Debug\net5.0\Tutorijal3.genruntimeconfig.cache
